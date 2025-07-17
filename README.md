@@ -12,8 +12,6 @@ This is my personal developer portfolio showcasing my work, skills, and projects
 ---
 
 
----
-
 ## 🚀 Features
 
 - Modern UI with responsive design
@@ -36,3 +34,11 @@ This is my personal developer portfolio showcasing my work, skills, and projects
 
 ## 📁 Folder Structure
 
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── App.jsx
+├── package.json
+└── README.md
